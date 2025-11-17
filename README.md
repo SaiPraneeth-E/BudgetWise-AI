@@ -61,4 +61,13 @@ streamlit run app.py
 
 ---
 
-*Made by EDUPULAPATI SAI PRANEETH*
+## 👥 Project Contributors
+
+| **Name**                     | **Role in the Project**                                   |
+|------------------------------|------------------------------------------------------------|
+| **EDUPULAPATI SAI PRANEETH** | Main Developer & Lead Contributor                         |
+| **GORLE AJAY**               | Data Preprocessing & Feature Engineering                  |
+| **GUMMADI CHANDANA**         | Dataset Handling & Documentation                          |
+| **GUNDAPU DIVYA SREE**       | Visualization & Charts Support                            |
+| **K. SRUJAN GOUD**           | Model Evaluation & Optimization Assistance                |
+
