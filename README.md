@@ -66,7 +66,7 @@ streamlit run app.py
 | **Name**                     | **Role in the Project**                                   |
 |------------------------------|------------------------------------------------------------|
 | **Edupulapati Sai Praneeth** | Main Developer & Lead Contributor                         |
-| **Gorle Ajay**               | Data Preprocessing & Feature Engineering                  |
+| **Gorle Ajay**               | Data Preprocessing & Feature Preparation|
 | **Gummadi Chadana**          | Dataset Handling & Documentation                          |
 | **Gundapu Divya Sree**       | Visualization & Charts Support                            |
 | **K. Srujan Goud**           | Model Evaluation & Optimization Assistance                |
