@@ -16,6 +16,39 @@ Website link: https://budgetwise-ai.streamlit.app/
 - **Interactive Visualizations**: Uses Plotly to generate interactive charts for insightful data analysis.
 - **Data Portability**: Allows users to import and export their financial data as CSV files.
 
+## 🛠️ Technology Stack
+
+- **Programming Language:** Python  
+- **Database:** SQLite  
+- **Authentication & Security:** SHA-256  
+- **Machine Learning:** scikit-learn  
+- **AI Integration:** Google Gemini Pro API  
+- **Data Analysis:** Pandas, NumPy  
+- **Visualization:** Plotly  
+- **File Handling:** CSV  
+
+---
+
+## 📂 Project Structure
+
+```text
+expense-tracker/
+│
+├── app.py
+├── database.db
+├── models/
+│   └── expense_prediction.py
+├── auth/
+│   └── auth.py
+├── static/
+│   └── receipts/
+├── templates/
+│   └── *.html
+├── utils/
+│   └── csv_handler.py
+└── README.md
+ ```
+
 ## Installation
 
 To get started with BudgetWise AI,follow these steps:
